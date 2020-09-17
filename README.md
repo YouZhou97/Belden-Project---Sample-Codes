@@ -8,6 +8,7 @@ various order circumstances that can account for changing market, competitive, a
 dynamics. Having this model allows for more control in setting the “right” prices that are
 justifiable with a better price acceptance rate, and in turn, more predictability and control over
 P&L performance.
+
 This project has two parts: pricing tools with different models and the outlier analysis. The part I
 explores relationship between price and demand, and find the optimal price maximizing the
 profit. The part II focuses on those factors having significant impact on quotes. We consider
